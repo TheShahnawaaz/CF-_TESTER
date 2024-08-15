@@ -1,7 +1,5 @@
 # CF Tester
 
-![CF Tester Logo](https://your-logo-url-here)  <!-- Replace with your logo URL -->
-
 **CF Tester** is a Visual Studio Code extension designed for competitive programming enthusiasts, especially those who frequently tackle problems on Codeforces. Simplify your workflow with this powerful tool that integrates problem-solving, code compilation, and result display into one seamless experience.
 
 ## Features
