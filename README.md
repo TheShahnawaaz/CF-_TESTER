@@ -1,6 +1,6 @@
 # CF Tester
 
-![CF Tester Logo]([https://github.com/TheShahnawaaz/CF_TESTER/img.png](https://github.com/TheShahnawaaz/CF_TESTER/blob/main/img.png))
+![CF Tester Logo](https://github.com/TheShahnawaaz/CF_TESTER/blob/main/img.png)
 
 **CF Tester** is a powerful Visual Studio Code extension tailored for competitive programming enthusiasts, particularly those active on Codeforces. Streamline your problem-solving workflow with seamless integration of problem fetching, code compilation, execution, and result display—all within VS Code.
 
